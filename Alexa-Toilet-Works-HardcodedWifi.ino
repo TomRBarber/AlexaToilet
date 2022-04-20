@@ -28,8 +28,8 @@ IRsend irsend(kIrLed);  // Set the GPIO to be used to sending the message.
 
 #define SERIAL_BAUDRATE 9600
 
-#define WIFI_SSID "Monkeylair 2010"
-#define WIFI_PASS "bitenuker"
+#define WIFI_SSID "SSID HERE"
+#define WIFI_PASS "password"
 
 #define LAMP_1 "Seat"
 #define LAMP_2 "Flush"
